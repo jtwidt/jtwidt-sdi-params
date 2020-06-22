@@ -1,0 +1,7 @@
+[
+  { "studentId": 1, "name": ["Jeremy", "Twidt"], "grades": [50, 75, 100] },
+  { "studentId": 2, "name": ["Eric", "Twidt"], "grades": [80, 95, 90] },
+  { "studentId": 3, "name": ["Kyle", "Bryce"], "grades": [70, 83, 60] },
+  { "studentId": 4, "name": ["Mina", "Maeda"], "grades": [80, 88, 90] },
+  { "studentId": 5, "name": ["Alexis", "Fisher"], "grades": [100, 95, 100] }
+]
